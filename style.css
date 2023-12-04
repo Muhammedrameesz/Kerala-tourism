@@ -1,0 +1,53 @@
+/* div.map{
+    text-align: center;
+    margin: 10px;
+    
+}
+div.h1{
+    text-align: center;
+    color: darkred;
+} */
+
+
+/* *{
+    color: aliceblue;
+} */
+.text{
+    align-items: center;
+    margin: 50px;
+    justify-content: center;
+    padding-left: 350px;
+}
+.discribe{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.about{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+img{
+
+    width: 265px;
+    height: 150px;
+}
+
+.attractoin{
+    color: brown;
+}
+
+ /* body{
+    background: url(images/wayanad/aerial-shot-long-road-hill-surrounded-by-greens-trees.jpg)rgba( 0,0,0.7),; 
+      filter: blur();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute; 
+            height: 100%; 
+            width: 100%; 
+            z-index: -1;
+            background-attachment: fixed;
+            background-blend-mode: color;
+    
+ } */
